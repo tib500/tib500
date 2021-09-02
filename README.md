@@ -25,8 +25,3 @@
 <br />
 <br />
 
-
----
-
-<a href="https://github.com/Tib500"><img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tib500&count_private=true" /></a>
-<a href="https://github.com/tib500?tab=repositories"><img align="left" alt="Favorite languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tib500&layout=compact&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=0d1117&&langs_count=10&hide=Smalltalk,Processing,Assembly,ShaderLab&count_private=true"  /></a>
