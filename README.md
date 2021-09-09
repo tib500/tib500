@@ -2,7 +2,7 @@
 
 ## I'm an amateur developper in my spare time.
 
-- 👨‍💻 Fondator of [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School).
+- 👨‍💻 CEO of [Key4School](https://key4school.herokuapp.com/) with [Key4School Organization](https://github.com/Key4School).
 - 🌱 I’m currently learning C++, Qt, and arduino (so electronic) for pleasure. 😅
 - 👯 I colloborate usually with [Mflavien01](https://github.com/Mflavien01) and [Bapt5](https://github.com/Bapt5).
 
